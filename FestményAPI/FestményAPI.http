@@ -1,0 +1,6 @@
+@FestményAPI_HostAddress = http://localhost:5174
+
+GET {{FestményAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
